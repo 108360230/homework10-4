@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.c
+C:\Users\leo\Desktop\高階程式語言\homework10.4\108360230_高鈺棋\2.31\source\main.c(7,9): warning C4129: 's': 無法辨識的字元逸出序列
+C:\Users\leo\Desktop\高階程式語言\homework10.4\108360230_高鈺棋\2.31\source\main.c(7,9): warning C4129: 'c': 無法辨識的字元逸出序列
+C:\Users\leo\Desktop\高階程式語言\homework10.4\108360230_高鈺棋\2.31\source\main.c(14,10): warning C4129: '%': 無法辨識的字元逸出序列
+  2.31.vcxproj -> C:\Users\leo\Desktop\高階程式語言\homework10.4\108360230_高鈺棋\2.31\2.31\2.31\..\..\temp\debug\2.31.exe
