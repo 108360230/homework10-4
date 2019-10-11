@@ -13,6 +13,7 @@ int main(void)
 		int c = i * i * i;
 		printf("%d\t\%d\t\%d \n", n, s, c);
 	}
-	return 0;
+	
 	system("pause");
+	return 0;
 }

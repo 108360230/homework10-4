@@ -25,6 +25,7 @@ int main(void)
 	{
 		printf("bmi=%f, obese", bmi);
 	}
-	return 0;
 	system("pause");
+	return 0;
+	
 }

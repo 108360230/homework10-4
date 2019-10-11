@@ -15,5 +15,6 @@ int main(void)
 	{
 		printf("%d 不為 %d 的倍數", a, b);
 	}
-
+	system("pause");
+	return 0;
 }

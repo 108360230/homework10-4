@@ -45,9 +45,9 @@ int main(void)
 			printf("最小數值為: %d \n", b);
 		}
 	}
-
-	return 0;
 	system("pause");
+	return 0;
+	
 
 
 }

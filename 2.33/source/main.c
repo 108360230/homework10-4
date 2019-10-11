@@ -9,7 +9,7 @@ int main(void)
 	scanf_s("%f%f%f%f%f", &a, &b, &c, &d, &e);
 	t = (a/c)*b+(d+e);
 	printf("一天的花費是:%1.1f 元", t);
-	return 0;
+	
 	system("pause");
-
+	return 0;
 }
